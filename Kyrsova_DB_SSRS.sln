@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Kyrsova_DB_SSRS", "Kyrsova_DB_SSRS\Kyrsova_DB_SSRS.rptproj", "{0D82DAA6-1037-4362-A453-FA67940096D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Debug|Default.ActiveCfg = Debug
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Debug|Default.Build.0 = Debug
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Debug|Default.Deploy.0 = Debug
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.DebugLocal|Default.Build.0 = DebugLocal
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Release|Default.ActiveCfg = Release
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Release|Default.Build.0 = Release
+		{0D82DAA6-1037-4362-A453-FA67940096D6}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4DD305-77FF-4AAB-8FA7-CA2F5CA68950}
+	EndGlobalSection
+EndGlobal
